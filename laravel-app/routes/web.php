@@ -12,5 +12,5 @@ Route::get('/day2', function () {
 });
 
 Route::get('/users', function () {
-    return 'Users page';
+    return 'users';
 });
